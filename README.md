@@ -3,7 +3,9 @@ Exploratory Data Analysis (EDA) on time-series vibration data from CNC (Computer
 
 ---
 
-I did Exploratory Data Analysis (EDA) on time-series vibration data from CNC (Computer Numerical Control) manufacturing machines whose raw dataset can be seen in [this GitHub LINK](https://github.com/boschresearch/CNC_Machining/tree/main).
+I did Exploratory Data Analysis (EDA) on time-series vibration data from CNC (Computer Numerical Control) manufacturing machines.
+- Raw time-series dataset of CNC Vibration: [this GitHub LINK](https://github.com/boschresearch/CNC_Machining/tree/main).
+- Link to personal GitHub link for cnc_tSNE_notebook.ipynb: [this GitHub LINK](https://github.com/astrozoid2604/Time-series_EDA_on_CNC_Vibration_Data/blob/main/cnc_tSNE_notebook.ipynb)
 
 Description for the Dataset:
 - The dataset in question comprises real-world vibration data from CNC milling machines, collected using a Bosch CISS Sensor, a tri-axial accelerometer. This setup captures data along three axes (X, Y, and Z) at a high sampling rate of 2 kHz, ensuring detailed and high-resolution measurements. The data spans from October 2018 to August 2021, divided into six-month intervals, and includes both normal and anomalous operating conditions, which are clearly labeled for each timeframe.
